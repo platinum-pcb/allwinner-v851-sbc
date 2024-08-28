@@ -1,7 +1,6 @@
 # Big Display Solutions (for microcontrollers)
 
-Due to lack of CPU performance and enough RAM space, it's challenging to drive big displays with microcontrollers.
-Here are some solutions I've found so far.
+Given the constraints of limited CPU performance and RAM capacity, driving large displays with microcontrollers can be challenging. Below are some potential solutions I have identified.
 
 ## Arduino HDMI Shield
 
